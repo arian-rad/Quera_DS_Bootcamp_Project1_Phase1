@@ -1,7 +1,7 @@
-import os
 import sqlalchemy
 from dotenv import load_dotenv
 from MySQLdb import _mysql
+from models import *
 
 load_dotenv()
 
@@ -34,3 +34,9 @@ class DatabaseConnector:
 
         return engine, connection
 
+    def create_tables(self):
+        # create engine
+        engine, _ = self.connect_to_db()
+
+        # Create the tables
+        Base.metadata.create_all(engine)
