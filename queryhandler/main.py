@@ -1,6 +1,6 @@
 import os
 from database_connector import DatabaseConnector
-
+from datsbase_manager import DatabaseManager
 
 # create a DatabaseConnector object
 db_connector = DatabaseConnector(
@@ -10,5 +10,15 @@ db_connector = DatabaseConnector(
     db_host=os.environ.get("DATABASE_HOST"),
     db_port=os.environ.get("DATABASE_PORT"),
 )
+# Create a DatabaseManager instance
+db_manager = DatabaseManager(db_connector)
 
 db_connector.create_tables()
+
+# Define the path to the JSON file
+coin_tag_data_path = os.environ.get("COIN_TAG_DATA_PATH")
+coin_data_path = os.environ.get("COIN_DATA_PATH")
+
+ # Call the function to insert data 
+db_manager.insert_coin_data(coin_data_path)
+db_manager.insert_coin_tag_data(coin_tag_data_path)

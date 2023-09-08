@@ -1,0 +1,2800 @@
+{
+    "https://coinmarketcap.com/currencies/bitcoin/": {
+     "Bitcoin_Tags": [
+      "Mineable",
+      "PoW",
+      "SHA-256",
+      "PoW",
+      "SHA-256",
+      "Store Of Value",
+      "State Channel",
+      "Coinbase Ventures Portfolio",
+      "Three Arrows Capital Portfolio",
+      "Polychain Capital Portfolio",
+      "Binance Labs Portfolio",
+      "Blockchain Capital Portfolio",
+      "BoostVC Portfolio",
+      "CMS Holdings Portfolio",
+      "DCG Portfolio",
+      "DragonFly Capital Portfolio",
+      "Electric Capital Portfolio",
+      "Fabric Ventures Portfolio",
+      "Framework Ventures Portfolio",
+      "Galaxy Digital Portfolio",
+      "Huobi Capital Portfolio",
+      "Alameda Research Portfolio",
+      "a16z Portfolio",
+      "1Confirmation Portfolio",
+      "Winklevoss Capital Portfolio",
+      "USV Portfolio",
+      "Placeholder Ventures Portfolio",
+      "Pantera Capital Portfolio",
+      "Multicoin Capital Portfolio",
+      "Paradigm Portfolio",
+      "Mineable",
+      "Bitcoin Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/ethereum/": {
+     "Ethereum_Tags": [
+      "PoS",
+      "Smart Contracts",
+      "Ethereum Ecosystem",
+      "PoS",
+      "Smart Contracts",
+      "Coinbase Ventures Portfolio",
+      "Three Arrows Capital Portfolio",
+      "Polychain Capital Portfolio",
+      "Binance Labs Portfolio",
+      "Blockchain Capital Portfolio",
+      "BoostVC Portfolio",
+      "CMS Holdings Portfolio",
+      "DCG Portfolio",
+      "DragonFly Capital Portfolio",
+      "Electric Capital Portfolio",
+      "Fabric Ventures Portfolio",
+      "Framework Ventures Portfolio",
+      "Hashkey Capital Portfolio",
+      "Kenetic Capital Portfolio",
+      "Huobi Capital Portfolio",
+      "Alameda Research Portfolio",
+      "a16z Portfolio",
+      "1Confirmation Portfolio",
+      "Winklevoss Capital Portfolio",
+      "USV Portfolio",
+      "Placeholder Ventures Portfolio",
+      "Pantera Capital Portfolio",
+      "Multicoin Capital Portfolio",
+      "Paradigm Portfolio",
+      "Layer 1",
+      "Ethereum Ecosystem",
+      "Injective Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/tether/": {
+     "Tether USDt_Tags": [
+      "Payments",
+      "Stablecoin",
+      "Asset-Backed Stablecoin",
+      "Stablecoin",
+      "Asset-Backed Stablecoin",
+      "USD Stablecoin",
+      "Payments",
+      "Avalanche Ecosystem",
+      "Solana Ecosystem",
+      "Arbitrum Ecosystem",
+      "Moonriver Ecosystem",
+      "Injective Ecosystem",
+      "BNB Chain",
+      "Optimism Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/bnb/": {
+     "BNB_Tags": [
+      "Marketplace",
+      "Centralized Exchange (CEX) Token",
+      "Payments",
+      "Centralized Exchange (CEX) Token",
+      "Smart Contracts",
+      "Alameda Research Portfolio",
+      "Multicoin Capital Portfolio",
+      "Layer 1",
+      "SEC Security Token",
+      "Alleged SEC Securities",
+      "Celsius Bankruptcy Estate",
+      "Marketplace",
+      "Payments",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/xrp/": {
+     "XRP_Tags": [
+      "Medium of Exchange",
+      "Enterprise Solutions",
+      "Arrington XRP Capital Portfolio",
+      "Arrington XRP Capital Portfolio",
+      "Galaxy Digital Portfolio",
+      "a16z Portfolio",
+      "Pantera Capital Portfolio",
+      "Medium of Exchange",
+      "Enterprise Solutions"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/usd-coin/": {
+     "USD Coin_Tags": [
+      "Medium of Exchange",
+      "Stablecoin",
+      "Asset-Backed Stablecoin",
+      "Stablecoin",
+      "Asset-Backed Stablecoin",
+      "USD Stablecoin",
+      "Medium of Exchange",
+      "Hedera Hashgraph Ecosystem",
+      "Fantom Ecosystem",
+      "Arbitrum Ecosystem",
+      "Moonriver Ecosystem",
+      "BNB Chain",
+      "Optimism Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/cardano/": {
+     "Cardano_Tags": [
+      "DPoS",
+      "PoS",
+      "Platform",
+      "DPoS",
+      "PoS",
+      "Platform",
+      "Smart Contracts",
+      "Staking",
+      "Layer 1",
+      "SEC Security Token",
+      "Alleged SEC Securities",
+      "Research",
+      "Cardano Ecosystem",
+      "Cardano"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/dogecoin/": {
+     "Dogecoin_Tags": [
+      "Mineable",
+      "PoW",
+      "Scrypt",
+      "PoW",
+      "Scrypt",
+      "Doggone Doggerel",
+      "Medium of Exchange",
+      "Memes",
+      "Payments",
+      "Mineable",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/solana/": {
+     "Solana_Tags": [
+      "PoS",
+      "Platform",
+      "Solana Ecosystem",
+      "PoS",
+      "Platform",
+      "CMS Holdings Portfolio",
+      "Kenetic Capital Portfolio",
+      "Alameda Research Portfolio",
+      "Multicoin Capital Portfolio",
+      "OKEx Blockdream Ventures Portfolio",
+      "Layer 1",
+      "FTX Bankruptcy Estate",
+      "SEC Security Token",
+      "Alleged SEC Securities",
+      "Solana Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/tron/": {
+     "TRON_Tags": [
+      "Media",
+      "Payments",
+      "TRON Ecosystem",
+      "DWF Labs Portfolio",
+      "SEC Security Token",
+      "Alleged SEC Securities",
+      "Media",
+      "Payments",
+      "TRON Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/polkadot-new/": {
+     "Polkadot_Tags": [
+      "Substrate",
+      "Polkadot",
+      "Binance Chain",
+      "Substrate",
+      "Three Arrows Capital Portfolio",
+      "Polychain Capital Portfolio",
+      "Arrington XRP Capital Portfolio",
+      "Blockchain Capital Portfolio",
+      "BoostVC Portfolio",
+      "CMS Holdings Portfolio",
+      "Coinfund Portfolio",
+      "Fabric Ventures Portfolio",
+      "Fenbushi Capital Portfolio",
+      "Hashkey Capital Portfolio",
+      "Kenetic Capital Portfolio",
+      "1Confirmation Portfolio",
+      "Placeholder Ventures Portfolio",
+      "Pantera Capital Portfolio",
+      "Exnetwork Capital Portfolio",
+      "Spartan Group",
+      "Layer 1",
+      "Web3",
+      "Polkadot",
+      "Binance Chain",
+      "Polkadot Ecosystem",
+      "Injective Ecosystem",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/multi-collateral-dai/": {
+     "Dai_Tags": [
+      "DeFi",
+      "Stablecoin",
+      "Asset-Backed Stablecoin",
+      "DeFi",
+      "Stablecoin",
+      "Asset-Backed Stablecoin",
+      "USD Stablecoin",
+      "Ethereum Ecosystem",
+      "Avalanche Ecosystem",
+      "Polygon Ecosystem",
+      "Fantom Ecosystem",
+      "Arbitrum Ecosystem",
+      "Harmony Ecosystem",
+      "Moonriver Ecosystem",
+      "BNB Chain",
+      "Optimism Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/polygon/": {
+     "Polygon_Tags": [
+      "PoS",
+      "Platform",
+      "Enterprise Solutions",
+      "PoS",
+      "Platform",
+      "Zero Knowledge Proofs",
+      "Scaling",
+      "State Channel",
+      "Coinbase Ventures Portfolio",
+      "Layer 2",
+      "Binance Launchpad",
+      "Binance Labs Portfolio",
+      "SEC Security Token",
+      "Alleged SEC Securities",
+      "Enterprise Solutions",
+      "Polygon Ecosystem",
+      "Moonriver Ecosystem",
+      "Injective Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/toncoin/": {
+     "Toncoin_Tags": [
+      "PoS",
+      "DWF Labs Portfolio",
+      "Toncoin Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/litecoin/": {
+     "Litecoin_Tags": [
+      "Mineable",
+      "PoW",
+      "Scrypt",
+      "PoW",
+      "Scrypt",
+      "Medium of Exchange",
+      "Mineable"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/shiba-inu/": {
+     "Shiba Inu_Tags": [
+      "Memes",
+      "Ethereum Ecosystem",
+      "Doggone Doggerel"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/wrapped-bitcoin/": {
+     "Wrapped Bitcoin_Tags": [
+      "Medium of Exchange",
+      "DeFi",
+      "Wrapped Tokens",
+      "DeFi",
+      "Medium of Exchange",
+      "Wrapped Tokens",
+      "Fantom Ecosystem",
+      "Arbitrum Ecosystem",
+      "Moonriver Ecosystem",
+      "Optimism Ecosystem",
+      "Bitcoin Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/bitcoin-cash/": {
+     "Bitcoin Cash_Tags": [
+      "Mineable",
+      "PoW",
+      "SHA-256",
+      "PoW",
+      "SHA-256",
+      "Store Of Value",
+      "Layer 1",
+      "Marketplace",
+      "Medium of Exchange",
+      "Enterprise Solutions",
+      "Payments",
+      "Mineable",
+      "Bitcoin Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/unus-sed-leo/": {
+     "UNUS SED LEO_Tags": [
+      "Marketplace",
+      "Centralized Exchange (CEX) Token",
+      "Discount Token",
+      "Centralized Exchange (CEX) Token",
+      "Discount Token",
+      "Kenetic Capital Portfolio",
+      "Alameda Research Portfolio",
+      "Marketplace",
+      "Payments"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/avalanche/": {
+     "Avalanche_Tags": [
+      "DeFi",
+      "Smart Contracts",
+      "Three Arrows Capital Portfolio",
+      "DeFi",
+      "Smart Contracts",
+      "Three Arrows Capital Portfolio",
+      "Polychain Capital Portfolio",
+      "CMS Holdings Portfolio",
+      "DragonFly Capital Portfolio",
+      "Layer 1",
+      "Avalanche Ecosystem",
+      "Moonriver Ecosystem",
+      "Injective Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/stellar/": {
+     "Stellar_Tags": [
+      "Medium of Exchange",
+      "Enterprise Solutions",
+      "Decentralized Exchange (DEX) Token",
+      "Decentralized Exchange (DEX) Token",
+      "Smart Contracts",
+      "Hashkey Capital Portfolio",
+      "Medium of Exchange",
+      "Enterprise Solutions"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/chainlink/": {
+     "Chainlink_Tags": [
+      "Platform",
+      "DeFi",
+      "Oracles",
+      "Platform",
+      "DeFi",
+      "Oracles",
+      "Smart Contracts",
+      "Substrate",
+      "Framework Ventures Portfolio",
+      "Real World Assets",
+      "Celsius Bankruptcy Estate",
+      "Web3",
+      "Polkadot",
+      "Polkadot Ecosystem",
+      "Avalanche Ecosystem",
+      "Solana Ecosystem",
+      "Polygon Ecosystem",
+      "Fantom Ecosystem",
+      "Cardano Ecosystem",
+      "Near Protocol Ecosystem",
+      "Arbitrum Ecosystem",
+      "Cardano",
+      "Injective Ecosystem",
+      "Optimism Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/binance-usd/": {
+     "Binance USD_Tags": [
+      "Stablecoin",
+      "Asset-Backed Stablecoin",
+      "Binance Chain",
+      "Stablecoin",
+      "Asset-Backed Stablecoin",
+      "USD Stablecoin",
+      "Alleged SEC Securities",
+      "Linea Ecosystem",
+      "Binance Chain",
+      "Harmony Ecosystem",
+      "Moonriver Ecosystem",
+      "Optimism Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/trueusd/": {
+     "TrueUSD_Tags": [
+      "Store Of Value",
+      "Stablecoin",
+      "Asset-Backed Stablecoin",
+      "Store Of Value",
+      "Stablecoin",
+      "Asset-Backed Stablecoin",
+      "USD Stablecoin",
+      "Avalanche Ecosystem",
+      "Arbitrum Ecosystem",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/uniswap/": {
+     "Uniswap_Tags": [
+      "Decentralized Exchange (DEX) Token",
+      "DeFi",
+      "DAO",
+      "Decentralized Exchange (DEX) Token",
+      "DeFi",
+      "DAO",
+      "Yield Farming",
+      "AMM",
+      "Coinbase Ventures Portfolio",
+      "Three Arrows Capital Portfolio",
+      "Governance",
+      "Blockchain Capital Portfolio",
+      "DeFiance Capital Portfolio",
+      "Alameda Research Portfolio",
+      "a16z Portfolio",
+      "Pantera Capital Portfolio",
+      "ParaFi Capital",
+      "Paradigm Portfolio",
+      "Arbitrum Ecosystem",
+      "Injective Ecosystem",
+      "Optimism Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/monero/": {
+     "Monero_Tags": [
+      "Mineable",
+      "PoW",
+      "Medium of Exchange",
+      "PoW",
+      "Privacy",
+      "RingCT",
+      "BoostVC Portfolio",
+      "Electric Capital Portfolio",
+      "Galaxy Digital Portfolio",
+      "Medium of Exchange",
+      "Mineable"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/okb/": {
+     "OKB_Tags": [
+      "Marketplace",
+      "Centralized Exchange (CEX) Token",
+      "Discount Token",
+      "Centralized Exchange (CEX) Token",
+      "Discount Token",
+      "Alameda Research Portfolio",
+      "Marketplace"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/cosmos/": {
+     "Cosmos_Tags": [
+      "Platform",
+      "Cosmos Ecosystem",
+      "Content Creation",
+      "Platform",
+      "Interoperability",
+      "Polychain Capital Portfolio",
+      "DragonFly Capital Portfolio",
+      "Hashkey Capital Portfolio",
+      "1Confirmation Portfolio",
+      "Paradigm Portfolio",
+      "Exnetwork Capital Portfolio",
+      "SEC Security Token",
+      "Alleged SEC Securities",
+      "Content Creation",
+      "Cosmos Ecosystem",
+      "Injective Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/ethereum-classic/": {
+     "Ethereum Classic_Tags": [
+      "Mineable",
+      "PoW",
+      "Ethash",
+      "PoW",
+      "Ethash",
+      "Platform",
+      "Smart Contracts",
+      "DCG Portfolio",
+      "Mineable"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/hedera/": {
+     "Hedera_Tags": [
+      "DAG",
+      "Marketplace",
+      "Enterprise Solutions",
+      "DAG",
+      "DCG Portfolio",
+      "Layer 1",
+      "Marketplace",
+      "Enterprise Solutions",
+      "Payments",
+      "Hedera Hashgraph Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/internet-computer/": {
+     "Internet Computer_Tags": [
+      "Platform",
+      "Distributed Computing",
+      "Collectibles & NFTs",
+      "Platform",
+      "Collectibles & NFTs",
+      "DeFi",
+      "Interoperability",
+      "Smart Contracts",
+      "DAO",
+      "Wallet",
+      "Storage",
+      "Polychain Capital Portfolio",
+      "Launchpad",
+      "Lending & Borrowing",
+      "Metaverse",
+      "Electric Capital Portfolio",
+      "Fenbushi Capital Portfolio",
+      "Hashkey Capital Portfolio",
+      "a16z Portfolio",
+      "Multicoin Capital Portfolio",
+      "Exnetwork Capital Portfolio",
+      "SEC Security Token",
+      "Alleged SEC Securities",
+      "Distributed Computing",
+      "Web3",
+      "Internet Computer Ecosystem",
+      "Bitcoin Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/filecoin/": {
+     "Filecoin_Tags": [
+      "Mineable",
+      "Distributed Computing",
+      "Filesharing",
+      "Storage",
+      "Polychain Capital Portfolio",
+      "Blockchain Capital Portfolio",
+      "BoostVC Portfolio",
+      "DCG Portfolio",
+      "Hashkey Capital Portfolio",
+      "a16z Portfolio",
+      "Winklevoss Capital Portfolio",
+      "Pantera Capital Portfolio",
+      "SEC Security Token",
+      "Alleged SEC Securities",
+      "Distributed Computing",
+      "Filesharing",
+      "Web3",
+      "Mineable",
+      "Filecoin Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/mantle/": {
+     "Mantle_Tags": [
+      "Ethereum Ecosystem",
+      "Layer 2",
+      "DWF Labs Portfolio"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/lido-dao/": {
+     "Lido DAO_Tags": [
+      "DeFi",
+      "DAO",
+      "Three Arrows Capital Portfolio",
+      "DeFi",
+      "DAO",
+      "Three Arrows Capital Portfolio",
+      "Paradigm Portfolio",
+      "Liquid Staking Derivatives",
+      "Arbitrum Ecosystem",
+      "Optimism Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/cronos/": {
+     "Cronos_Tags": [
+      "Medium of Exchange",
+      "Cosmos Ecosystem",
+      "Centralized Exchange (CEX) Token",
+      "Centralized Exchange (CEX) Token",
+      "Medium of Exchange",
+      "Mobile",
+      "Payments",
+      "Cosmos Ecosystem",
+      "Injective Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/aptos/": {
+     "Aptos_Tags": [
+      "Binance Labs Portfolio",
+      "Aptos Ecosystem",
+      "Circle Ventures Portfolio",
+      "Binance Labs Portfolio",
+      "Circle Ventures Portfolio",
+      "Layer 1",
+      "Aptos Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/quant/": {
+     "Quant_Tags": [
+      "Platform",
+      "Interoperability"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/arbitrum/": {
+     "Arbitrum_Tags": [
+      "Scaling",
+      "DAO",
+      "DApp",
+      "Scaling",
+      "DAO",
+      "DApp",
+      "Polychain Capital Portfolio",
+      "Layer 2",
+      "Rollups",
+      "Pantera Capital Portfolio",
+      "Ethereum Ecosystem",
+      "Arbitrum Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/vechain/": {
+     "VeChain_Tags": [
+      "Logistics",
+      "Data Provenance",
+      "IoT",
+      "Smart Contracts",
+      "Fenbushi Capital Portfolio",
+      "Logistics",
+      "Data Provenance",
+      "IoT"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/near-protocol/": {
+     "NEAR Protocol_Tags": [
+      "Platform",
+      "Staking",
+      "Coinbase Ventures Portfolio",
+      "Platform",
+      "Staking",
+      "Coinbase Ventures Portfolio",
+      "Three Arrows Capital Portfolio",
+      "Arrington XRP Capital Portfolio",
+      "Coinfund Portfolio",
+      "Electric Capital Portfolio",
+      "Fabric Ventures Portfolio",
+      "Kenetic Capital Portfolio",
+      "Circle Ventures Portfolio",
+      "SEC Security Token",
+      "Alleged SEC Securities",
+      "Near Protocol Ecosystem",
+      "Injective Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/optimism-ethereum/": {
+     "Optimism_Tags": [
+      "Layer 2",
+      "Optimism Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/maker/": {
+     "Maker_Tags": [
+      "Store Of Value",
+      "DeFi",
+      "DAO",
+      "Store Of Value",
+      "DeFi",
+      "DAO",
+      "Polychain Capital Portfolio",
+      "Governance",
+      "Lending & Borrowing",
+      "DragonFly Capital Portfolio",
+      "Electric Capital Portfolio",
+      "a16z Portfolio",
+      "1Confirmation Portfolio",
+      "Placeholder Ventures Portfolio",
+      "Pantera Capital Portfolio",
+      "Paradigm Portfolio",
+      "Spartan Group",
+      "Real World Assets",
+      "Near Protocol Ecosystem",
+      "Arbitrum Ecosystem",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/aave/": {
+     "Aave_Tags": [
+      "DeFi",
+      "DAO",
+      "Yield Farming",
+      "DeFi",
+      "DAO",
+      "Yield Farming",
+      "Three Arrows Capital Portfolio",
+      "Governance",
+      "Lending & Borrowing",
+      "Blockchain Capital Portfolio",
+      "DeFiance Capital Portfolio",
+      "Framework Ventures Portfolio",
+      "Alameda Research Portfolio",
+      "Pantera Capital Portfolio",
+      "ParaFi Capital",
+      "Polygon Ecosystem",
+      "Fantom Ecosystem",
+      "Optimism Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/the-graph/": {
+     "The Graph_Tags": [
+      "AI & Big Data",
+      "Enterprise Solutions",
+      "DeFi",
+      "DeFi",
+      "Coinbase Ventures Portfolio",
+      "Analytics",
+      "Coinfund Portfolio",
+      "DCG Portfolio",
+      "Fabric Ventures Portfolio",
+      "Framework Ventures Portfolio",
+      "LedgerPrime Portfolio",
+      "Multicoin Capital Portfolio",
+      "ParaFi Capital",
+      "Spartan Group",
+      "AI & Big Data",
+      "Enterprise Solutions",
+      "Web3",
+      "Solana Ecosystem",
+      "Polygon Ecosystem",
+      "Fantom Ecosystem",
+      "Near Protocol Ecosystem",
+      "Arbitrum Ecosystem",
+      "Injective Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/algorand/": {
+     "Algorand_Tags": [
+      "PoS",
+      "Platform",
+      "Research",
+      "PoS",
+      "Platform",
+      "Smart Contracts",
+      "Arrington XRP Capital Portfolio",
+      "Kenetic Capital Portfolio",
+      "USV Portfolio",
+      "Multicoin Capital Portfolio",
+      "Exnetwork Capital Portfolio",
+      "Layer 1",
+      "DWF Labs Portfolio",
+      "SEC Security Token",
+      "Alleged SEC Securities",
+      "Research"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/xdc-network/": {
+     "XDC Network_Tags": [
+      "Enterprise Solutions",
+      "Smart Contracts",
+      "XDC Ecosystem",
+      "Smart Contracts",
+      "Layer 1",
+      "Enterprise Solutions",
+      "XDC Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/usdd/": {
+     "USDD_Tags": [
+      "Stablecoin",
+      "Algorithmic Stablecoin",
+      "Arbitrum Ecosystem",
+      "Stablecoin",
+      "Algorithmic Stablecoin",
+      "USD Stablecoin",
+      "Arbitrum Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/axie-infinity/": {
+     "Axie Infinity_Tags": [
+      "Collectibles & NFTs",
+      "Gaming",
+      "Binance Launchpad",
+      "Collectibles & NFTs",
+      "Binance Launchpad",
+      "Metaverse",
+      "DeFiance Capital Portfolio",
+      "Play To Earn",
+      "Animoca Brands Portfolio",
+      "SEC Security Token",
+      "Alleged SEC Securities",
+      "Gaming"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/the-sandbox/": {
+     "The Sandbox_Tags": [
+      "Collectibles & NFTs",
+      "Content Creation",
+      "Gaming",
+      "Collectibles & NFTs",
+      "Binance Launchpad",
+      "Metaverse",
+      "Play To Earn",
+      "Animoca Brands Portfolio",
+      "SEC Security Token",
+      "Alleged SEC Securities",
+      "Content Creation",
+      "Gaming",
+      "Ethereum Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/tezos/": {
+     "Tezos_Tags": [
+      "PoS",
+      "Platform",
+      "Enterprise Solutions",
+      "PoS",
+      "Platform",
+      "Collectibles & NFTs",
+      "DeFi",
+      "Smart Contracts",
+      "Polychain Capital Portfolio",
+      "BoostVC Portfolio",
+      "Winklevoss Capital Portfolio",
+      "Layer 1",
+      "Enterprise Solutions"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/stacks/": {
+     "Stacks_Tags": [
+      "Mineable",
+      "Platform",
+      "Collectibles & NFTs",
+      "Platform",
+      "Collectibles & NFTs",
+      "DeFi",
+      "Smart Contracts",
+      "Metaverse",
+      "Arrington XRP Capital Portfolio",
+      "Blockchain Capital Portfolio",
+      "DCG Portfolio",
+      "Fabric Ventures Portfolio",
+      "Hashkey Capital Portfolio",
+      "Huobi Capital Portfolio",
+      "USV Portfolio",
+      "Web3",
+      "Mineable",
+      "Injective Ecosystem",
+      "Bitcoin Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/multiversx-egld/": {
+     "MultiversX_Tags": [
+      "Binance Launchpad",
+      "Binance Labs Portfolio",
+      "Electric Capital Portfolio",
+      "Binance Launchpad",
+      "Binance Labs Portfolio",
+      "Electric Capital Portfolio",
+      "Exnetwork Capital Portfolio",
+      "Layer 1",
+      "DWF Labs Portfolio",
+      "Elrond Ecosystem",
+      "Injective Ecosystem",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/eos/": {
+     "EOS_Tags": [
+      "Medium of Exchange",
+      "Enterprise Solutions",
+      "Smart Contracts",
+      "Smart Contracts",
+      "Fenbushi Capital Portfolio",
+      "Galaxy Digital Portfolio",
+      "DWF Labs Portfolio",
+      "Medium of Exchange",
+      "Enterprise Solutions",
+      "EOS"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/theta-network/": {
+     "Theta Network_Tags": [
+      "Media",
+      "Collectibles & NFTs",
+      "Content Creation",
+      "Collectibles & NFTs",
+      "DeFi",
+      "Metaverse",
+      "Huobi Capital Portfolio",
+      "Media",
+      "Content Creation",
+      "Video",
+      "Web3"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/immutable-x/": {
+     "Immutable_Tags": [
+      "Collectibles & NFTs",
+      "Zero Knowledge Proofs",
+      "Gaming",
+      "Collectibles & NFTs",
+      "Zero Knowledge Proofs",
+      "Scaling",
+      "Layer 2",
+      "Rollups",
+      "Arrington XRP Capital Portfolio",
+      "Alameda Research Portfolio",
+      "Gaming"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/injective/": {
+     "Injective_Tags": [
+      "PoS",
+      "Platform",
+      "Cosmos Ecosystem",
+      "PoS",
+      "Platform",
+      "DeFi",
+      "Smart Contracts",
+      "Binance Launchpad",
+      "Binance Labs Portfolio",
+      "CMS Holdings Portfolio",
+      "Pantera Capital Portfolio",
+      "AI & Big Data",
+      "Web3",
+      "Cosmos Ecosystem",
+      "Cosmos",
+      "BNB Smart Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/fantom/": {
+     "Fantom_Tags": [
+      "Platform",
+      "Enterprise Solutions",
+      "DeFi",
+      "Platform",
+      "DeFi",
+      "Scaling",
+      "Smart Contracts",
+      "Layer 1",
+      "Enterprise Solutions",
+      "Research",
+      "Fantom Ecosystem",
+      "Injective Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/bitcoin-sv/": {
+     "Bitcoin SV_Tags": [
+      "Mineable",
+      "PoW",
+      "SHA-256",
+      "PoW",
+      "SHA-256",
+      "Store Of Value",
+      "State Channel",
+      "Medium of Exchange",
+      "Mineable",
+      "Bitcoin Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/decentraland/": {
+     "Decentraland_Tags": [
+      "Platform",
+      "Collectibles & NFTs",
+      "Gaming",
+      "Platform",
+      "Collectibles & NFTs",
+      "Metaverse",
+      "BoostVC Portfolio",
+      "DCG Portfolio",
+      "Fabric Ventures Portfolio",
+      "Kenetic Capital Portfolio",
+      "Play To Earn",
+      "SEC Security Token",
+      "Alleged SEC Securities",
+      "Gaming",
+      "Payments",
+      "Polygon Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/synthetix/": {
+     "Synthetix_Tags": [
+      "Services",
+      "Decentralized Exchange (DEX) Token",
+      "DeFi",
+      "Decentralized Exchange (DEX) Token",
+      "DeFi",
+      "Derivatives",
+      "DAO",
+      "Yield Farming",
+      "Coinbase Ventures Portfolio",
+      "Three Arrows Capital Portfolio",
+      "Governance",
+      "DeFiance Capital Portfolio",
+      "Framework Ventures Portfolio",
+      "Alameda Research Portfolio",
+      "ParaFi Capital",
+      "Paradigm Portfolio",
+      "Spartan Group",
+      "Real World Assets",
+      "DWF Labs Portfolio",
+      "Celsius Bankruptcy Estate",
+      "Services",
+      "Synthetics",
+      "Fantom Ecosystem",
+      "BNB Chain",
+      "Optimism Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/render/": {
+     "Render_Tags": [
+      "Art",
+      "Media",
+      "VR/AR",
+      "Collectibles & NFTs",
+      "Scaling",
+      "Metaverse",
+      "Alameda Research Portfolio",
+      "Multicoin Capital Portfolio",
+      "Art",
+      "Media",
+      "VR/AR",
+      "AI & Big Data",
+      "Distributed Computing",
+      "Gaming",
+      "Video",
+      "Web3",
+      "Ethereum Ecosystem",
+      "Solana Ecosystem",
+      "Polygon Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/apecoin-ape/": {
+     "ApeCoin_Tags": [
+      "Collectibles & NFTs",
+      "Content Creation",
+      "Gaming"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/paxos-standard/": {
+     "Pax Dollar_Tags": [
+      "Store Of Value",
+      "Stablecoin",
+      "Asset-Backed Stablecoin",
+      "Store Of Value",
+      "Stablecoin",
+      "Asset-Backed Stablecoin",
+      "USD Stablecoin",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/neo/": {
+     "Neo_Tags": [
+      "Platform",
+      "Enterprise Solutions",
+      "Smart Contracts"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/thorchain/": {
+     "THORChain_Tags": [
+      "Cosmos Ecosystem",
+      "Decentralized Exchange (DEX) Token",
+      "DeFi",
+      "Decentralized Exchange (DEX) Token",
+      "DeFi",
+      "DEX",
+      "Multicoin Capital Portfolio",
+      "Exnetwork Capital Portfolio",
+      "Cosmos Ecosystem",
+      "Injective Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/kava/": {
+     "Kava_Tags": [
+      "Cosmos Ecosystem",
+      "DeFi",
+      "Binance Launchpad",
+      "DeFi",
+      "Binance Launchpad",
+      "Binance Labs Portfolio",
+      "Lending & Borrowing",
+      "Arrington XRP Capital Portfolio",
+      "Framework Ventures Portfolio",
+      "Hashkey Capital Portfolio",
+      "DWF Labs Portfolio",
+      "Cosmos Ecosystem",
+      "Injective Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/pax-gold/": {
+     "PAX Gold_Tags": [
+      "BNB Chain",
+      "Tokenized Gold"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/tether-gold/": {
+     "Tether Gold_Tags": [
+      "Tokenized Gold"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/ecash/": {
+     "eCash_Tags": [
+      "Layer 1",
+      "Layer 1"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/rocket-pool/": {
+     "Rocket Pool_Tags": [
+      "DeFi",
+      "Liquid Staking Derivatives"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/chiliz/": {
+     "Chiliz_Tags": [
+      "Sports",
+      "Collectibles & NFTs",
+      "Content Creation",
+      "Collectibles & NFTs",
+      "Layer 1",
+      "SEC Security Token",
+      "Alleged SEC Securities",
+      "Sports",
+      "Content Creation",
+      "Payments"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/gala/": {
+     "Gala_Tags": [
+      "Collectibles & NFTs",
+      "Gaming",
+      "BNB Smart Chain",
+      "Collectibles & NFTs",
+      "Play To Earn",
+      "DWF Labs Portfolio",
+      "Gaming",
+      "BNB Smart Chain",
+      "Polygon Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/klaytn/": {
+     "Klaytn_Tags": [
+      "Platform",
+      "Enterprise Solutions",
+      "Injective Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/kucoin-token/": {
+     "KuCoin Token_Tags": [
+      "Marketplace",
+      "Centralized Exchange (CEX) Token",
+      "Discount Token",
+      "Centralized Exchange (CEX) Token",
+      "Discount Token",
+      "Marketplace",
+      "Algorand Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/frax-share/": {
+     "Frax Share_Tags": [
+      "DeFi",
+      "Seigniorage",
+      "Avalanche Ecosystem",
+      "DeFi",
+      "Seigniorage",
+      "Exnetwork Capital Portfolio",
+      "Liquid Staking Derivatives",
+      "Avalanche Ecosystem",
+      "Olympus Pro Ecosystem",
+      "Arbitrum Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/iota/": {
+     "IOTA_Tags": [
+      "DAG",
+      "Medium of Exchange",
+      "IoT",
+      "DAG",
+      "DWF Labs Portfolio",
+      "Medium of Exchange",
+      "IoT",
+      "Sharing Economy"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/zcash/": {
+     "Zcash_Tags": [
+      "Mineable",
+      "PoW",
+      "Equihash",
+      "PoW",
+      "Equihash",
+      "Privacy",
+      "Zero Knowledge Proofs",
+      "BoostVC Portfolio",
+      "DCG Portfolio",
+      "Electric Capital Portfolio",
+      "Fenbushi Capital Portfolio",
+      "Hashkey Capital Portfolio",
+      "Winklevoss Capital Portfolio",
+      "Placeholder Ventures Portfolio",
+      "Pantera Capital Portfolio",
+      "Medium of Exchange",
+      "Mineable",
+      "Binance Chain",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/casper/": {
+     "Casper_Tags": [
+      "Enterprise Solutions",
+      "Arrington XRP Capital Portfolio",
+      "Hashkey Capital Portfolio",
+      "Arrington XRP Capital Portfolio",
+      "Hashkey Capital Portfolio",
+      "OKEx Blockdream Ventures Portfolio",
+      "Enterprise Solutions",
+      "Web3"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/sui/": {
+     "Sui_Tags": [
+      "Binance Launchpool",
+      "Coinbase Ventures Portfolio",
+      "Binance Labs Portfolio",
+      "Binance Launchpool",
+      "Coinbase Ventures Portfolio",
+      "Binance Labs Portfolio",
+      "Electric Capital Portfolio",
+      "a16z Portfolio",
+      "Layer 1"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/huobi-token/": {
+     "Huobi Token_Tags": [
+      "Marketplace",
+      "Centralized Exchange (CEX) Token",
+      "Discount Token",
+      "Centralized Exchange (CEX) Token",
+      "Discount Token",
+      "Kenetic Capital Portfolio",
+      "Alameda Research Portfolio",
+      "Multicoin Capital Portfolio",
+      "Marketplace",
+      "Payments",
+      "Algorand Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/bittorrent-new/": {
+     "BitTorrent(New)_Tags": [
+      "Platform",
+      "Distributed Computing",
+      "Filesharing",
+      "Platform",
+      "Interoperability",
+      "Staking",
+      "Storage",
+      "Binance Launchpad",
+      "Binance Labs Portfolio",
+      "SEC Security Token",
+      "Alleged SEC Securities",
+      "Distributed Computing",
+      "Filesharing",
+      "Web3",
+      "TRON Ecosystem",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/curve-dao-token/": {
+     "Curve DAO Token_Tags": [
+      "Decentralized Exchange (DEX) Token",
+      "DeFi",
+      "DAO",
+      "Decentralized Exchange (DEX) Token",
+      "DeFi",
+      "DAO",
+      "Yield Farming",
+      "AMM",
+      "Governance",
+      "Framework Ventures Portfolio",
+      "Alameda Research Portfolio",
+      "DWF Labs Portfolio",
+      "Polygon Ecosystem",
+      "Fantom Ecosystem",
+      "Arbitrum Ecosystem",
+      "Optimism Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/conflux-network/": {
+     "Conflux_Tags": [
+      "Mineable",
+      "PoW",
+      "Platform",
+      "PoW",
+      "Hybrid - PoW & DPoS",
+      "Platform",
+      "Collectibles & NFTs",
+      "DeFi",
+      "Smart Contracts",
+      "Staking",
+      "Huobi Capital Portfolio",
+      "DWF Labs Portfolio",
+      "Payments",
+      "Research",
+      "Web3",
+      "Mineable",
+      "Injective Ecosystem",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/mina/": {
+     "Mina_Tags": [
+      "PoS",
+      "Zero Knowledge Proofs",
+      "Staking",
+      "PoS",
+      "Zero Knowledge Proofs",
+      "Staking",
+      "Coinbase Ventures Portfolio",
+      "Three Arrows Capital Portfolio",
+      "Polychain Capital Portfolio"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/gatetoken/": {
+     "GateToken_Tags": [
+      "Marketplace",
+      "Centralized Exchange (CEX) Token",
+      "Discount Token",
+      "Centralized Exchange (CEX) Token",
+      "Discount Token",
+      "FTX Bankruptcy Estate",
+      "Marketplace",
+      "Algorand Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/terra-luna/": {
+     "Terra Classic_Tags": [
+      "Cosmos Ecosystem",
+      "Store Of Value",
+      "DeFi",
+      "Store Of Value",
+      "DeFi",
+      "Coinbase Ventures Portfolio",
+      "Binance Labs Portfolio",
+      "Arrington XRP Capital Portfolio",
+      "Hashkey Capital Portfolio",
+      "Kenetic Capital Portfolio",
+      "Huobi Capital Portfolio",
+      "Pantera Capital Portfolio",
+      "SEC Security Token",
+      "Alleged SEC Securities",
+      "Payments",
+      "Cosmos Ecosystem",
+      "Solana Ecosystem",
+      "Terra Ecosystem",
+      "Injective Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/pepe/": {
+     "Pepe_Tags": [
+      "Memes"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/dydx/": {
+     "dYdX_Tags": [
+      "DeFi",
+      "Derivatives",
+      "Zero Knowledge Proofs",
+      "DeFi",
+      "Derivatives",
+      "Zero Knowledge Proofs",
+      "Three Arrows Capital Portfolio",
+      "Paradigm Portfolio",
+      "Spartan Group"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/compound/": {
+     "Compound_Tags": [
+      "DeFi",
+      "DAO",
+      "Yield Farming",
+      "DeFi",
+      "DAO",
+      "Yield Farming",
+      "Coinbase Ventures Portfolio",
+      "Three Arrows Capital Portfolio",
+      "Polychain Capital Portfolio",
+      "Lending & Borrowing",
+      "DragonFly Capital Portfolio",
+      "Alameda Research Portfolio",
+      "a16z Portfolio",
+      "Pantera Capital Portfolio",
+      "Paradigm Portfolio",
+      "Arbitrum Ecosystem",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/nexo/": {
+     "Nexo_Tags": [
+      "Services",
+      "Payments",
+      "Cardano Ecosystem",
+      "Alleged SEC Securities",
+      "Services",
+      "Payments",
+      "Cardano Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/gmx/": {
+     "GMX_Tags": [
+      "Derivatives",
+      "DEX",
+      "Avalanche Ecosystem",
+      "Derivatives",
+      "DEX",
+      "Avalanche Ecosystem",
+      "Arbitrum Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/bone-shibaswap/": {
+     "Bone ShibaSwap_Tags": [
+      "Memes",
+      "Doggone Doggerel"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/apenft/": {
+     "APENFT_Tags": [
+      "Art",
+      "Collectibles & NFTs",
+      "TRON Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/wootrade/": {
+     "WOO Network_Tags": [
+      "Centralized Exchange (CEX) Token",
+      "Three Arrows Capital Portfolio",
+      "Exnetwork Capital Portfolio",
+      "Centralized Exchange (CEX) Token",
+      "Three Arrows Capital Portfolio",
+      "Exnetwork Capital Portfolio",
+      "MVB",
+      "VBC Ventures Portfolio",
+      "Polygon Ecosystem",
+      "Arbitrum Ecosystem",
+      "Injective Ecosystem",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/gemini-dollar/": {
+     "Gemini Dollar_Tags": [
+      "Store Of Value",
+      "Stablecoin",
+      "Asset-Backed Stablecoin",
+      "Store Of Value",
+      "Stablecoin",
+      "Asset-Backed Stablecoin",
+      "USD Stablecoin"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/flare/": {
+     "Flare_Tags": [
+      "DWF Labs Portfolio",
+      "DWF Labs Portfolio"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/astar/": {
+     "Astar_Tags": [
+      "Polkadot",
+      "Polkadot Ecosystem",
+      "OKEx Blockdream Ventures Portfolio",
+      "OKEx Blockdream Ventures Portfolio",
+      "Polkadot",
+      "Polkadot Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/dash/": {
+     "Dash_Tags": [
+      "Mineable",
+      "Hybrid - PoW & PoS",
+      "X11",
+      "Hybrid - PoW & PoS",
+      "X11",
+      "Privacy",
+      "Masternodes",
+      "DAO",
+      "Governance",
+      "Alleged SEC Securities",
+      "Medium of Exchange",
+      "Mineable"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/akash-network/": {
+     "Akash Network_Tags": [
+      "Cosmos Ecosystem",
+      "AI & Big Data",
+      "Distributed Computing",
+      "AI & Big Data",
+      "Distributed Computing",
+      "Web3",
+      "Cosmos Ecosystem",
+      "Injective Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/pancakeswap/": {
+     "PancakeSwap_Tags": [
+      "Collectibles & NFTs",
+      "Decentralized Exchange (DEX) Token",
+      "DeFi",
+      "Collectibles & NFTs",
+      "Decentralized Exchange (DEX) Token",
+      "DeFi",
+      "Smart Contracts",
+      "Yield Farming",
+      "AMM",
+      "DEX",
+      "Governance",
+      "BNB Smart Chain",
+      "Aptos Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/mx-token/": {
+     "MX TOKEN_Tags": [
+      "Marketplace",
+      "Centralized Exchange (CEX) Token",
+      "Discount Token"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/arweave/": {
+     "Arweave_Tags": [
+      "Distributed Computing",
+      "Filesharing",
+      "Storage",
+      "Storage",
+      "Coinbase Ventures Portfolio",
+      "Arrington XRP Capital Portfolio",
+      "Blockchain Capital Portfolio",
+      "a16z Portfolio",
+      "Multicoin Capital Portfolio",
+      "Distributed Computing",
+      "Filesharing",
+      "Web3",
+      "Solana Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/zilliqa/": {
+     "Zilliqa_Tags": [
+      "Mineable",
+      "Platform",
+      "Payments",
+      "Platform",
+      "Smart Contracts",
+      "Polychain Capital Portfolio",
+      "Metaverse",
+      "Kenetic Capital Portfolio",
+      "Payments",
+      "Mineable",
+      "Zilliqa Ecosystem",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/oasis-network/": {
+     "Oasis Network_Tags": [
+      "Cosmos Ecosystem",
+      "AI & Big Data",
+      "Collectibles & NFTs",
+      "Collectibles & NFTs",
+      "DeFi",
+      "Privacy",
+      "Scaling",
+      "Smart Contracts",
+      "Polychain Capital Portfolio",
+      "Binance Labs Portfolio",
+      "Arrington XRP Capital Portfolio",
+      "Blockchain Capital Portfolio",
+      "DragonFly Capital Portfolio",
+      "Electric Capital Portfolio",
+      "Kenetic Capital Portfolio",
+      "Huobi Capital Portfolio",
+      "a16z Portfolio",
+      "Winklevoss Capital Portfolio",
+      "Pantera Capital Portfolio",
+      "AI & Big Data",
+      "Cosmos Ecosystem",
+      "Injective Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/gnosis-gno/": {
+     "Gnosis_Tags": [
+      "Services",
+      "Decentralized Exchange (DEX) Token",
+      "DeFi",
+      "Decentralized Exchange (DEX) Token",
+      "DeFi",
+      "Prediction Markets",
+      "Kenetic Capital Portfolio",
+      "Services",
+      "Arbitrum Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/basic-attention-token/": {
+     "Basic Attention Token_Tags": [
+      "Marketing",
+      "Content Creation",
+      "DeFi",
+      "DeFi",
+      "DCG Portfolio",
+      "1Confirmation Portfolio",
+      "Pantera Capital Portfolio",
+      "Marketing",
+      "Content Creation",
+      "Payments",
+      "Web3",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/safepal/": {
+     "SafePal_Tags": [
+      "Wallet",
+      "Ethereum Ecosystem",
+      "Binance Launchpad",
+      "Wallet",
+      "Binance Launchpad",
+      "Ethereum Ecosystem",
+      "Injective Ecosystem",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/1inch/": {
+     "1inch Network_Tags": [
+      "Decentralized Exchange (DEX) Token",
+      "DeFi",
+      "Wallet",
+      "Decentralized Exchange (DEX) Token",
+      "DeFi",
+      "Wallet",
+      "AMM",
+      "Binance Labs Portfolio",
+      "Blockchain Capital Portfolio",
+      "DragonFly Capital Portfolio",
+      "Fabric Ventures Portfolio",
+      "Alameda Research Portfolio",
+      "ParaFi Capital",
+      "Spartan Group",
+      "Celsius Bankruptcy Estate",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/sei/": {
+     "Sei_Tags": [
+      "Coinbase Ventures Portfolio",
+      "Multicoin Capital Portfolio",
+      "Layer 1",
+      "Coinbase Ventures Portfolio",
+      "Multicoin Capital Portfolio",
+      "Layer 1",
+      "Jump Crypto",
+      "SEI Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/chia-network/": {
+     "Chia_Tags": []
+    },
+    "https://coinmarketcap.com/currencies/loopring/": {
+     "Loopring_Tags": [
+      "Marketplace",
+      "Decentralized Exchange (DEX) Token",
+      "DeFi",
+      "Decentralized Exchange (DEX) Token",
+      "DeFi",
+      "Zero Knowledge Proofs",
+      "Scaling",
+      "Smart Contracts",
+      "Wallet",
+      "AMM",
+      "DEX",
+      "Layer 2",
+      "Rollups",
+      "Red Packets",
+      "Token",
+      "Marketplace",
+      "Web3",
+      "Ethereum Ecosystem",
+      "Arbitrum Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/enjin-coin/": {
+     "Enjin Coin_Tags": [
+      "Media",
+      "Collectibles & NFTs",
+      "Gaming",
+      "Collectibles & NFTs",
+      "Metaverse",
+      "Arrington XRP Capital Portfolio",
+      "Media",
+      "Gaming",
+      "Ethereum Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/helium/": {
+     "Helium_Tags": [
+      "Mineable",
+      "Enterprise Solutions",
+      "Distributed Computing",
+      "USV Portfolio",
+      "Multicoin Capital Portfolio",
+      "Enterprise Solutions",
+      "Distributed Computing",
+      "IoT",
+      "Web3",
+      "Mineable"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/qtum/": {
+     "Qtum_Tags": [
+      "Platform",
+      "Smart Contracts",
+      "Kenetic Capital Portfolio",
+      "Platform",
+      "Smart Contracts",
+      "Kenetic Capital Portfolio",
+      "Bitcoin Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/ethereum-name-service/": {
+     "Ethereum Name Service_Tags": [
+      "DAO",
+      "Governance",
+      "Web3",
+      "DAO",
+      "Governance",
+      "Web3"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/nem/": {
+     "NEM_Tags": [
+      "PoI",
+      "Medium of Exchange",
+      "Payments",
+      "PoI",
+      "Smart Contracts",
+      "Medium of Exchange",
+      "Payments",
+      "Fantom Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/bitcoin-gold/": {
+     "Bitcoin Gold_Tags": [
+      "Mineable",
+      "Medium of Exchange",
+      "Payments",
+      "Medium of Exchange",
+      "Payments",
+      "Mineable",
+      "Bitcoin Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/singularitynet/": {
+     "SingularityNET_Tags": [
+      "Marketplace",
+      "AI & Big Data",
+      "Payments",
+      "Cross-Chain DEX Aggregator",
+      "Marketplace",
+      "AI & Big Data",
+      "Payments"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/convex-finance/": {
+     "Convex Finance_Tags": [
+      "DeFi",
+      "Yield Aggregator"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/mask-network/": {
+     "Mask Network_Tags": [
+      "Communications & Social Media",
+      "Collectibles & NFTs",
+      "Content Creation",
+      "Collectibles & NFTs",
+      "Metaverse",
+      "Animoca Brands Portfolio",
+      "DWF Labs Portfolio",
+      "Communications & Social Media",
+      "Content Creation",
+      "Web3",
+      "Ethereum Ecosystem",
+      "Polygon Ecosystem",
+      "Injective Ecosystem",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/celo/": {
+     "Celo_Tags": [
+      "PoS",
+      "Zero Knowledge Proofs",
+      "Mobile",
+      "PoS",
+      "Zero Knowledge Proofs",
+      "Smart Contracts",
+      "Coinbase Ventures Portfolio",
+      "Polychain Capital Portfolio",
+      "DragonFly Capital Portfolio",
+      "Electric Capital Portfolio",
+      "a16z Portfolio",
+      "DWF Labs Portfolio",
+      "Mobile",
+      "Payments",
+      "Celo Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/theta-fuel/": {
+     "Theta Fuel_Tags": [
+      "Media",
+      "Content Creation",
+      "DeFi",
+      "DeFi",
+      "Media",
+      "Content Creation",
+      "Payments"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/ankr/": {
+     "Ankr_Tags": [
+      "Platform",
+      "Cosmos Ecosystem",
+      "Enterprise Solutions",
+      "Platform",
+      "DeFi",
+      "Staking",
+      "Substrate",
+      "Pantera Capital Portfolio",
+      "Liquid Staking Derivatives",
+      "Enterprise Solutions",
+      "Filesharing",
+      "Cosmos Ecosystem",
+      "Polygon Ecosystem",
+      "Celo Ecosystem",
+      "Injective Ecosystem",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/ravencoin/": {
+     "Ravencoin_Tags": [
+      "Mineable",
+      "PoW",
+      "Platform",
+      "PoW",
+      "Platform",
+      "Crowdfunding",
+      "Mineable"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/osmosis/": {
+     "Osmosis_Tags": [
+      "Cosmos Ecosystem",
+      "Injective Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/ocean-protocol/": {
+     "Ocean Protocol_Tags": [
+      "Platform",
+      "AI & Big Data",
+      "DeFi",
+      "Platform",
+      "DeFi",
+      "DAO",
+      "Substrate",
+      "Storage",
+      "DCG Portfolio",
+      "Fabric Ventures Portfolio",
+      "AI & Big Data",
+      "Filesharing",
+      "Web3",
+      "Polygon Ecosystem",
+      "Injective Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/yearn-finance/": {
+     "yearn.finance_Tags": [
+      "DeFi",
+      "DAO",
+      "Yield Farming",
+      "DeFi",
+      "DAO",
+      "Yield Farming",
+      "Yield Aggregator",
+      "Yearn Partnerships",
+      "Three Arrows Capital Portfolio",
+      "Polychain Capital Portfolio",
+      "Governance",
+      "Blockchain Capital Portfolio",
+      "Framework Ventures Portfolio",
+      "Alameda Research Portfolio",
+      "ParaFi Capital",
+      "Fantom Ecosystem",
+      "Arbitrum Ecosystem",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/livepeer/": {
+     "Livepeer_Tags": [
+      "Coinfund Portfolio",
+      "DCG Portfolio",
+      "Pantera Capital Portfolio",
+      "Coinfund Portfolio",
+      "DCG Portfolio",
+      "Pantera Capital Portfolio",
+      "Multicoin Capital Portfolio",
+      "Web3",
+      "Arbitrum Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/holo/": {
+     "Holo_Tags": [
+      "Platform",
+      "Distributed Computing",
+      "Filesharing",
+      "Platform",
+      "Storage",
+      "Distributed Computing",
+      "Filesharing"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/just/": {
+     "JUST_Tags": [
+      "DeFi",
+      "TRON Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/green-metaverse-token/": {
+     "STEPN_Tags": [
+      "Collectibles & NFTs",
+      "Gaming",
+      "BNB Smart Chain",
+      "Collectibles & NFTs",
+      "Binance Launchpad",
+      "Move To Earn",
+      "Gaming",
+      "BNB Smart Chain",
+      "Solana Ecosystem",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/balancer/": {
+     "Balancer_Tags": [
+      "Decentralized Exchange (DEX) Token",
+      "DeFi",
+      "DAO",
+      "Decentralized Exchange (DEX) Token",
+      "DeFi",
+      "DAO",
+      "Yield Farming",
+      "AMM",
+      "Three Arrows Capital Portfolio",
+      "Governance",
+      "Coinfund Portfolio",
+      "Alameda Research Portfolio",
+      "Placeholder Ventures Portfolio",
+      "Pantera Capital Portfolio",
+      "Near Protocol Ecosystem",
+      "Arbitrum Ecosystem",
+      "Optimism Ecosystem",
+      "Base Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/aelf/": {
+     "aelf_Tags": [
+      "Marketplace",
+      "Enterprise Solutions",
+      "Arrington XRP Capital Portfolio",
+      "Arrington XRP Capital Portfolio",
+      "Huobi Capital Portfolio",
+      "Marketplace",
+      "Enterprise Solutions",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/fetch/": {
+     "Fetch.ai_Tags": [
+      "Cosmos Ecosystem",
+      "AI & Big Data",
+      "Collectibles & NFTs",
+      "Collectibles & NFTs",
+      "Binance Launchpad",
+      "DWF Labs Portfolio",
+      "AI & Big Data",
+      "IoT",
+      "Web3",
+      "Cosmos Ecosystem",
+      "Injective Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/blur-token/": {
+     "Blur_Tags": [
+      "Collectibles & NFTs"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/waves/": {
+     "Waves_Tags": [
+      "LPoS",
+      "Platform",
+      "Smart Contracts",
+      "LPoS",
+      "Platform",
+      "Smart Contracts",
+      "DWF Labs Portfolio"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/golem-network-tokens/": {
+     "Golem_Tags": [
+      "Platform",
+      "Distributed Computing",
+      "Payments",
+      "Platform",
+      "Distributed Computing",
+      "Payments",
+      "Web3",
+      "Polygon Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/aragon/": {
+     "Aragon_Tags": [
+      "Platform",
+      "Enterprise Solutions",
+      "DAO",
+      "Platform",
+      "DAO",
+      "Governance",
+      "BoostVC Portfolio",
+      "Placeholder Ventures Portfolio",
+      "Enterprise Solutions",
+      "Web3",
+      "Ethereum Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/audius/": {
+     "Audius_Tags": [
+      "Music",
+      "DAO",
+      "Coinbase Ventures Portfolio",
+      "DAO",
+      "Coinbase Ventures Portfolio",
+      "Binance Labs Portfolio",
+      "Pantera Capital Portfolio",
+      "Multicoin Capital Portfolio",
+      "Music",
+      "Web3",
+      "Solana Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/jasmy/": {
+     "JasmyCoin_Tags": [
+      "IoT",
+      "Ethereum Ecosystem",
+      "DWF Labs Portfolio"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/floki-inu/": {
+     "FLOKI_Tags": [
+      "Gaming",
+      "Memes",
+      "Metaverse",
+      "Metaverse",
+      "Doggone Doggerel",
+      "Play To Earn",
+      "DWF Labs Portfolio",
+      "Gaming",
+      "Memes",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/threshold/": {
+     "Threshold_Tags": [
+      "Bitcoin Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/icon/": {
+     "ICON_Tags": [
+      "Platform",
+      "Enterprise Solutions",
+      "Interoperability",
+      "Platform",
+      "Interoperability",
+      "Smart Contracts",
+      "Kenetic Capital Portfolio",
+      "Pantera Capital Portfolio",
+      "Enterprise Solutions"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/kusama/": {
+     "Kusama_Tags": [
+      "Substrate",
+      "Polkadot Ecosystem",
+      "CMS Holdings Portfolio",
+      "Substrate",
+      "CMS Holdings Portfolio",
+      "Kenetic Capital Portfolio",
+      "1Confirmation Portfolio",
+      "VBC Ventures Portfolio",
+      "Polkadot Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/siacoin/": {
+     "Siacoin_Tags": [
+      "Mineable",
+      "PoW",
+      "Blake2b",
+      "PoW",
+      "Blake2b",
+      "Platform",
+      "Storage",
+      "DragonFly Capital Portfolio",
+      "Fenbushi Capital Portfolio",
+      "Paradigm Portfolio",
+      "Distributed Computing",
+      "Filesharing",
+      "Web3",
+      "Mineable",
+      "Near Protocol Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/worldcoin-org/": {
+     "Worldcoin_Tags": [
+      "Privacy",
+      "Zero Knowledge Proofs",
+      "Identity",
+      "Privacy",
+      "Zero Knowledge Proofs",
+      "Governance",
+      "Blockchain Capital Portfolio",
+      "a16z Portfolio",
+      "Token",
+      "Identity",
+      "Ethereum Ecosystem",
+      "Optimism Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/sxp/": {
+     "Solar_Tags": [
+      "Medium of Exchange",
+      "DeFi",
+      "Payments",
+      "DeFi",
+      "Wallet",
+      "Binance Labs Portfolio",
+      "Alameda Research Portfolio",
+      "Medium of Exchange",
+      "Payments",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/terra-luna-v2/": {
+     "Terra_Tags": [
+      "Alleged SEC Securities"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/illuvium/": {
+     "Illuvium_Tags": [
+      "Collectibles & NFTs",
+      "Gaming",
+      "DAO",
+      "Collectibles & NFTs",
+      "DAO",
+      "Metaverse",
+      "Play To Earn",
+      "Gaming"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/hive-blockchain/": {
+     "Hive_Tags": [
+      "DPoS",
+      "Media",
+      "Content Creation",
+      "DPoS",
+      "Scaling",
+      "Media",
+      "Content Creation",
+      "Web3"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/0x/": {
+     "0x Protocol_Tags": [
+      "Platform",
+      "Decentralized Exchange (DEX) Token",
+      "DeFi",
+      "Platform",
+      "Decentralized Exchange (DEX) Token",
+      "DeFi",
+      "Scaling",
+      "DAO",
+      "Substrate",
+      "Polychain Capital Portfolio",
+      "Governance",
+      "Blockchain Capital Portfolio",
+      "BoostVC Portfolio",
+      "Fabric Ventures Portfolio",
+      "Kenetic Capital Portfolio",
+      "Placeholder Ventures Portfolio",
+      "Pantera Capital Portfolio",
+      "Celsius Bankruptcy Estate",
+      "Polkadot",
+      "Polkadot Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/ethereum-pow/": {
+     "EthereumPoW_Tags": [
+      "PoW",
+      "PoW"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/ontology/": {
+     "Ontology_Tags": [
+      "Enterprise Solutions",
+      "Identity",
+      "Metaverse",
+      "Metaverse",
+      "Huobi Capital Portfolio",
+      "Enterprise Solutions",
+      "Identity",
+      "Web3",
+      "Fantom Ecosystem",
+      "Near Protocol Ecosystem",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/ssv-network/": {
+     "ssv.network_Tags": []
+    },
+    "https://coinmarketcap.com/currencies/moonbeam/": {
+     "Moonbeam_Tags": [
+      "Smart Contracts",
+      "Substrate",
+      "Polkadot",
+      "Smart Contracts",
+      "Substrate",
+      "Binance Labs Portfolio",
+      "Arrington XRP Capital Portfolio",
+      "Polkadot",
+      "Polkadot Ecosystem",
+      "Injective Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/iostoken/": {
+     "IOST_Tags": [
+      "Hardware",
+      "IoT",
+      "Huobi Capital Portfolio"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/band-protocol/": {
+     "Band Protocol_Tags": [
+      "Cosmos Ecosystem",
+      "DeFi",
+      "Oracles",
+      "DeFi",
+      "Oracles",
+      "Binance Launchpad",
+      "Binance Labs Portfolio",
+      "Spartan Group",
+      "Web3",
+      "Cosmos Ecosystem",
+      "Binance Chain",
+      "Solana Ecosystem",
+      "Polygon Ecosystem",
+      "Fantom Ecosystem",
+      "Near Protocol Ecosystem",
+      "Injective Ecosystem",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/biconomy/": {
+     "Biconomy_Tags": [
+      "Platform",
+      "Interoperability",
+      "Coinbase Ventures Portfolio",
+      "Platform",
+      "Interoperability",
+      "Coinbase Ventures Portfolio",
+      "Binance Labs Portfolio",
+      "Fenbushi Capital Portfolio",
+      "MVB"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/harmony/": {
+     "Harmony_Tags": [
+      "Platform",
+      "Enterprise Solutions",
+      "Scaling",
+      "Platform",
+      "Scaling",
+      "Smart Contracts",
+      "Binance Launchpad",
+      "Binance Labs Portfolio",
+      "Hashkey Capital Portfolio",
+      "Enterprise Solutions",
+      "Harmony Ecosystem",
+      "Injective Ecosystem",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/wax/": {
+     "WAX_Tags": [
+      "Media",
+      "Collectibles & NFTs",
+      "Gaming",
+      "Collectibles & NFTs",
+      "Metaverse",
+      "Galaxy Digital Portfolio",
+      "Kenetic Capital Portfolio",
+      "Play To Earn",
+      "OKEx Blockdream Ventures Portfolio",
+      "Media",
+      "Gaming",
+      "Entertainment",
+      "Payments"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/sushiswap/": {
+     "SushiSwap_Tags": [
+      "Collectibles & NFTs",
+      "Decentralized Exchange (DEX) Token",
+      "DeFi",
+      "Collectibles & NFTs",
+      "Decentralized Exchange (DEX) Token",
+      "DeFi",
+      "DAO",
+      "Yield Farming",
+      "AMM",
+      "Yearn Partnerships",
+      "Governance",
+      "Metaverse",
+      "Blockchain Capital Portfolio",
+      "DeFiance Capital Portfolio",
+      "Alameda Research Portfolio",
+      "Pantera Capital Portfolio",
+      "Avalanche Ecosystem",
+      "Polygon Ecosystem",
+      "Fantom Ecosystem",
+      "Arbitrum Ecosystem",
+      "Harmony Ecosystem",
+      "Injective Ecosystem",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/axelar/": {
+     "Axelar_Tags": [
+      "Interoperability",
+      "Ethereum Ecosystem",
+      "Coinbase Ventures Portfolio",
+      "Interoperability",
+      "Coinbase Ventures Portfolio",
+      "Polychain Capital Portfolio",
+      "Binance Labs Portfolio",
+      "Galaxy Digital Portfolio",
+      "SEI Ecosystem",
+      "Ethereum Ecosystem",
+      "Base Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/iotex/": {
+     "IoTeX_Tags": [
+      "Platform",
+      "IoT",
+      "Hashkey Capital Portfolio",
+      "Platform",
+      "Hashkey Capital Portfolio",
+      "Kenetic Capital Portfolio",
+      "IoT",
+      "IoTeX Ecosystem",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/magic-token/": {
+     "MAGIC_Tags": [
+      "Gaming",
+      "Metaverse",
+      "Arbitrum Ecosystem",
+      "Metaverse",
+      "Gaming",
+      "Arbitrum Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/merit-circle/": {
+     "Merit Circle_Tags": [
+      "Gaming",
+      "Binance Launchpool",
+      "Governance",
+      "Binance Launchpool",
+      "Governance",
+      "Play To Earn",
+      "Token",
+      "Gaming Guild",
+      "Spartan Group",
+      "DWF Labs Portfolio",
+      "Gaming"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/terrausd/": {
+     "TerraClassicUSD_Tags": [
+      "Cosmos Ecosystem",
+      "Stablecoin",
+      "Algorithmic Stablecoin",
+      "Stablecoin",
+      "Algorithmic Stablecoin",
+      "Seigniorage",
+      "USD Stablecoin",
+      "Alleged SEC Securities",
+      "Cosmos Ecosystem",
+      "Terra Ecosystem",
+      "Injective Ecosystem",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/kadena/": {
+     "Kadena_Tags": [
+      "Mineable",
+      "PoW",
+      "Blake2S",
+      "PoW",
+      "Blake2S",
+      "Platform",
+      "Smart Contracts",
+      "Coinfund Portfolio",
+      "Multicoin Capital Portfolio",
+      "Layer 1",
+      "Kadena Ecosystem",
+      "Web3",
+      "Mineable"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/unibot-eth/": {
+     "UniBot_Tags": [
+      "Ethereum Ecosystem",
+      "Telegram Bot"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/bora/": {
+     "BORA_Tags": [
+      "Marketplace",
+      "Gaming"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/nervos-network/": {
+     "Nervos Network_Tags": [
+      "Mineable",
+      "PoW",
+      "Platform",
+      "PoW",
+      "Platform",
+      "Collectibles & NFTs",
+      "DeFi",
+      "Interoperability",
+      "Scaling",
+      "Smart Contracts",
+      "DAO",
+      "Polychain Capital Portfolio",
+      "Rollups",
+      "Blockchain Capital Portfolio",
+      "CMS Holdings Portfolio",
+      "DragonFly Capital Portfolio",
+      "Electric Capital Portfolio",
+      "Hashkey Capital Portfolio",
+      "Huobi Capital Portfolio",
+      "1Confirmation Portfolio",
+      "Multicoin Capital Portfolio",
+      "Research",
+      "Web3",
+      "Mineable"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/digibyte/": {
+     "DigiByte_Tags": [
+      "Mineable",
+      "PoW",
+      "Multiple algorithms",
+      "PoW",
+      "Multiple algorithms",
+      "Collectibles & NFTs",
+      "Medium of Exchange",
+      "IoT",
+      "Payments",
+      "Mineable"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/stargate-finance/": {
+     "Stargate Finance_Tags": [
+      "Ethereum Ecosystem",
+      "Avalanche Ecosystem",
+      "Polygon Ecosystem",
+      "Cross-Chain",
+      "Ethereum Ecosystem",
+      "Avalanche Ecosystem",
+      "Polygon Ecosystem",
+      "Fantom Ecosystem",
+      "Arbitrum Ecosystem",
+      "Optimism Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/dao-maker/": {
+     "DAO Maker_Tags": [
+      "DeFi",
+      "Governance",
+      "Launchpad",
+      "DeFi",
+      "Governance",
+      "Launchpad",
+      "DAO Maker",
+      "VBC Ventures Portfolio",
+      "Injective Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/mobilecoin/": {
+     "MobileCoin_Tags": [
+      "Privacy",
+      "Payments",
+      "Arrington XRP Capital Portfolio"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/ribbon-finance/": {
+     "Ribbon Finance_Tags": [
+      "Derivatives",
+      "Coinbase Ventures Portfolio",
+      "Real World Assets"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/skale-network/": {
+     "SKALE_Tags": [
+      "Platform",
+      "Scaling",
+      "Smart Contracts",
+      "Platform",
+      "Scaling",
+      "Smart Contracts",
+      "Staking",
+      "Layer 2",
+      "Arrington XRP Capital Portfolio",
+      "BoostVC Portfolio",
+      "Galaxy Digital Portfolio",
+      "Hashkey Capital Portfolio"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/zel/": {
+     "Flux_Tags": [
+      "Mineable",
+      "PoW",
+      "Distributed Computing",
+      "PoW",
+      "Interoperability",
+      "Masternodes",
+      "Smart Contracts",
+      "DAO",
+      "DApp",
+      "Storage",
+      "Governance",
+      "Cross-Chain",
+      "Distributed Computing",
+      "Filesharing",
+      "Web3",
+      "Mineable"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/uma/": {
+     "UMA_Tags": [
+      "DeFi",
+      "Derivatives",
+      "Oracles",
+      "DeFi",
+      "Derivatives",
+      "Oracles",
+      "DAO",
+      "Coinbase Ventures Portfolio",
+      "Governance",
+      "Blockchain Capital Portfolio",
+      "DragonFly Capital Portfolio",
+      "Placeholder Ventures Portfolio",
+      "Synthetics",
+      "Polygon Ecosystem",
+      "Injective Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/horizen/": {
+     "Horizen_Tags": [
+      "Mineable",
+      "PoW",
+      "Medium of Exchange",
+      "PoW",
+      "Platform",
+      "Privacy",
+      "Zero Knowledge Proofs",
+      "Masternodes",
+      "Scaling",
+      "Smart Contracts",
+      "Staking",
+      "Sidechain",
+      "DCG Portfolio",
+      "Medium of Exchange",
+      "Enterprise Solutions",
+      "Content Creation",
+      "Web3",
+      "Mineable"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/galxe/": {
+     "Galxe_Tags": [
+      "Binance Launchpool",
+      "MVB",
+      "Spartan Group",
+      "Binance Launchpool",
+      "MVB",
+      "Spartan Group",
+      "DWF Labs Portfolio"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/reserve-rights/": {
+     "Reserve Rights_Tags": [
+      "Store Of Value",
+      "DeFi",
+      "Coinbase Ventures Portfolio",
+      "Store Of Value",
+      "DeFi",
+      "Coinbase Ventures Portfolio",
+      "DCG Portfolio",
+      "Real World Assets"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/tomochain/": {
+     "TomoChain_Tags": [
+      "Platform",
+      "Alameda Research Portfolio",
+      "Injective Ecosystem",
+      "Platform",
+      "Alameda Research Portfolio",
+      "Injective Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/everscale/": {
+     "Everscale_Tags": [
+      "Everscale Ecosystem",
+      "Everscale Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/standard-tokenization-protocol/": {
+     "STP_Tags": [
+      "DeFi",
+      "Payments",
+      "DeFi",
+      "Payments"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/lisk/": {
+     "Lisk_Tags": [
+      "DPoS",
+      "Platform",
+      "Enterprise Solutions",
+      "DPoS",
+      "Platform",
+      "Smart Contracts",
+      "Enterprise Solutions"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/nano/": {
+     "Nano_Tags": [
+      "DAG",
+      "Blake2b",
+      "Medium of Exchange",
+      "DAG",
+      "Blake2b",
+      "Store Of Value",
+      "Medium of Exchange",
+      "Payments"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/storj/": {
+     "Storj_Tags": [
+      "Platform",
+      "Distributed Computing",
+      "Filesharing",
+      "Platform",
+      "Storage",
+      "Distributed Computing",
+      "Filesharing",
+      "Web3"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/alchemy-pay/": {
+     "Alchemy Pay_Tags": [
+      "DWF Labs Portfolio"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/kyber-network-crystal-v2/": {
+     "Kyber Network Crystal v2_Tags": [
+      "Marketplace",
+      "Decentralized Exchange (DEX) Token",
+      "DeFi",
+      "Decentralized Exchange (DEX) Token",
+      "DeFi",
+      "DAO",
+      "AMM",
+      "Three Arrows Capital Portfolio",
+      "Governance",
+      "Kenetic Capital Portfolio",
+      "Pantera Capital Portfolio",
+      "ParaFi Capital",
+      "Marketplace",
+      "Arbitrum Ecosystem",
+      "Optimism Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/celer-network/": {
+     "Celer Network_Tags": [
+      "Platform",
+      "Enterprise Solutions",
+      "Zero Knowledge Proofs",
+      "Platform",
+      "Zero Knowledge Proofs",
+      "Scaling",
+      "State Channel",
+      "Substrate",
+      "Binance Launchpad",
+      "Arrington XRP Capital Portfolio",
+      "Pantera Capital Portfolio",
+      "SEI Ecosystem",
+      "Enterprise Solutions",
+      "Ethereum Ecosystem",
+      "Polkadot Ecosystem",
+      "Arbitrum Ecosystem",
+      "BNB Chain"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/playdapp/": {
+     "PlayDapp_Tags": [
+      "Gaming",
+      "Ethereum Ecosystem",
+      "Metaverse",
+      "Metaverse",
+      "Gaming",
+      "Ethereum Ecosystem",
+      "Polygon Ecosystem"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/vulcan-forged-pyr/": {
+     "Vulcan Forged PYR_Tags": [
+      "Collectibles & NFTs",
+      "Gaming",
+      "Entertainment",
+      "Collectibles & NFTs",
+      "Metaverse",
+      "DWF Labs Portfolio",
+      "Gaming",
+      "Entertainment"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/status/": {
+     "Status_Tags": [
+      "Media",
+      "Content Creation",
+      "Privacy",
+      "Privacy",
+      "Fabric Ventures Portfolio",
+      "Kenetic Capital Portfolio",
+      "Media",
+      "Content Creation"
+     ]
+    },
+    "https://coinmarketcap.com/currencies/amp/": {
+     "Amp_Tags": [
+      "SEC Security Token",
+      "Alleged SEC Securities"
+     ]
+    }
+   }
