@@ -7,6 +7,7 @@ from sqlalchemy import (
     ForeignKey,
     DATETIME,
     BigInteger,
+    UniqueConstraint
 )
 from sqlalchemy.orm import declarative_base
 from sqlalchemy_file import FileField
@@ -20,13 +21,10 @@ class Coin(Base):
     __tablename__ = "coin"
 
     id = Column(Integer, primary_key=True)
-    name = Column(
-        String(50),
-        unique=True,
-    )
-    symbol = Column(String(4), unique=True)
+    name = Column(String(50),unique=True,)
+    symbol = Column(String(6), unique=True)
     logo = Column(FileField)
-    official_inks = Column(JSON)
+    official_links = Column(JSON)
     main_link = Column(String(250), unique=True)
     history_link = Column(String(250), unique=True)
     socials = Column(JSON())
@@ -92,6 +90,12 @@ class CoinTag(Base):
     id = Column(Integer, primary_key=True)
     coin = Column(Integer, ForeignKey("coin.id"))
     tag = Column(Integer, ForeignKey("tag.id"))
+
+    # Define a unique constraint to prevent duplicate combinations of coin and tag
+    __table_args__ = (
+        UniqueConstraint('coin', 'tag', name='uq_coin_tag_combination'),
+    )
+
 
     def __repr__(self):
         return f"{self.coin.name}, {self.tag.title}"
