@@ -7,7 +7,9 @@ from sqlalchemy import (
     ForeignKey,
     DATETIME,
     BigInteger,
-    UniqueConstraint
+    UniqueConstraint,
+    Numeric
+
 )
 from sqlalchemy.orm import declarative_base
 from sqlalchemy_file import FileField
@@ -21,8 +23,8 @@ class Coin(Base):
     __tablename__ = "coin"
 
     id = Column(Integer, primary_key=True)
-    name = Column(String(50),unique=True,)
-    symbol = Column(String(6), unique=True)
+    name = Column(String(50), unique=True,)
+    symbol = Column(String(9), unique=True)
     logo = Column(FileField)
     official_links = Column(JSON)
     main_link = Column(String(250), unique=True)
@@ -46,7 +48,7 @@ class CoinHistory(Base):
     low = Column(DECIMAL())
     high = Column(DECIMAL())
     close = Column(DECIMAL())
-    volume = Column(DECIMAL())
+    volume = Column(Numeric(precision=20, scale=5))
     time_open = Column(DATETIME())
     time_close = Column(DATETIME())
     time_high = Column(DATETIME())
