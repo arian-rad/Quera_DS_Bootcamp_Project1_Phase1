@@ -114,7 +114,6 @@ class DatabaseManager:
     def insert_coin_history_data(self):
         coin_history_path = os.environ.get("ALL_365_DAYS_PATH")
         # iterate through coin history csv files
-        count = 0
         for file in os.listdir(coin_history_path):
             # read csv file
             try:
