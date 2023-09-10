@@ -9,7 +9,7 @@ class statistics_analysis:
         # db is an object from database_connector
     
 
-    # define a function for first hypothesis test question:
+    # define a function to answer the estimation question:
     def get_confidence_interval(self, n_samples=40):
         # Select the coin names and ids from the coin table
         coins = self.db.query("SELECT id, name FROM coin")
@@ -31,7 +31,11 @@ class statistics_analysis:
 
         return confidence_interval
     
-
+    # To answer the first part of the hypothesis test question:
+    # First define a function to calculate the mean change in price for each day
+    # compare_schedule function calculates the changes mean for each set of days
+    # At the end perform t-test to compare two sets
+    # sched1 and sched2 are two working schedules to compare
     def calculate_mean_change(self, days):
         daily_change = self.db[self.db['day_of_week'].isin(days)]['close'] - self.db[self.db['day_of_week'].isin(days)]['open']
         return daily_change.mean()
@@ -47,6 +51,6 @@ class statistics_analysis:
         else:
             return f"There is no significant difference between the two sets of days (p={p_value})."
        
-            # sched1 and sched2 are two working schedules to compare
+            
          
 
