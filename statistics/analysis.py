@@ -11,6 +11,7 @@ class statistics_analysis:
 
     #### Estimation question:
     
+    # define a function to answer the estimation question:
     def get_confidence_interval(self, n_samples=40):
     # Select the coin names and ids from the coin table
         coins = self.db.query("SELECT id, name FROM coin")
@@ -38,6 +39,7 @@ class statistics_analysis:
     # First hypothesis test question:
     # The null hypothesis in this part states that there is no significant difference between two sets changes mean
     # mathematically: H0: μ1 = μ2
+    
     # To answer the first part of the hypothesis test question:
     # First define a function to calculate the mean change in price for each day
     # compare_schedule function calculates the changes mean for each set of days
@@ -84,4 +86,6 @@ class statistics_analysis:
             return f"The mean volume of {top_coins} is not significantly more than the mean volume of other cryptos."
     # This method compares the mean volume of the list of top coins with the mean volume of other coins.
     # Finally perform t-test to determine if there is a significant difference between two groups or not.     
+            
+         
 
