@@ -9,9 +9,9 @@ class statistics_analysis:
     # db is an object from database_connector
     
 
-    #### Estimation question:
+    # Estimation question:
     
-    # define a function to answer the estimation question:
+    # define a method to answer the estimation question:
     def get_confidence_interval(self, n_samples=40):
     # Select the coin names and ids from the coin table
         coins = self.db.query("SELECT id, name FROM coin")
@@ -32,8 +32,8 @@ class statistics_analysis:
         confidence_interval = stats.norm.interval(0.98, loc=np.mean(mean_volumes), scale=stats.sem(mean_volumes))
 
         return confidence_interval
-    #### in our case The 98% confidence interval for the mean volume(24h) is:
-    #### (-105270195.58586341, 474766267.31582564).
+    # in our case The 98% confidence interval for the mean volume(24h) is:
+    # (-105270195.58586341, 474766267.31582564).
 
 
     # First hypothesis test question:
@@ -41,8 +41,8 @@ class statistics_analysis:
     # mathematically: H0: μ1 = μ2
     
     # To answer the first part of the hypothesis test question:
-    # First define a function to calculate the mean change in price for each day
-    # compare_schedule function calculates the changes mean for each set of days
+    # First define a method to calculate the mean change in price for each day
+    # compare_schedule method calculates the changes mean for each set of days
     # At the end perform t-test to compare two sets
     # sched1 and sched2 are two working schedules to compare
     def calculate_mean_change(self, days):
