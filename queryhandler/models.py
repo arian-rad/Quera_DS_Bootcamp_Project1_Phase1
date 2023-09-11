@@ -42,7 +42,7 @@ class CoinHistory(Base):
     id = Column(Integer, primary_key=True)
     coin = Column(Integer, ForeignKey("coin.id"))
     date = Column(DATETIME())
-    market_cap = Column(BigInteger())
+    market_cap = Column(Numeric(precision=20, scale=5))
     open = Column(Numeric(precision=20, scale=5))
     rank = Column(Integer())
     low = Column(Numeric(precision=20, scale=5))
