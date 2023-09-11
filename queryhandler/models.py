@@ -8,11 +8,13 @@ from sqlalchemy import (
     DATETIME,
     BigInteger,
     UniqueConstraint,
-    Numeric
-
+    Numeric,
+    TIMESTAMP,
 )
 from sqlalchemy.orm import declarative_base
 from sqlalchemy_file import FileField
+from datetime import datetime
+
 
 
 # create a base class for declarative models
@@ -23,7 +25,10 @@ class Coin(Base):
     __tablename__ = "coin"
 
     id = Column(Integer, primary_key=True)
-    name = Column(String(50), unique=True,)
+    name = Column(
+        String(50),
+        unique=True,
+    )
     symbol = Column(String(9), unique=True)
     logo = Column(FileField)
     official_links = Column(JSON)
@@ -41,13 +46,13 @@ class CoinHistory(Base):
 
     id = Column(Integer, primary_key=True)
     coin = Column(Integer, ForeignKey("coin.id"))
-    date = Column(DATETIME())
-    market_cap = Column(BigInteger())
-    open = Column(DECIMAL())
+    timestamp = Column(TIMESTAMP())
+    market_cap = Column(Numeric(precision=20, scale=5))
+    open = Column(Numeric(precision=20, scale=5))
     rank = Column(Integer())
-    low = Column(DECIMAL())
-    high = Column(DECIMAL())
-    close = Column(DECIMAL())
+    low = Column(Numeric(precision=20, scale=5))
+    high = Column(Numeric(precision=20, scale=5))
+    close = Column(Numeric(precision=20, scale=5))
     volume = Column(Numeric(precision=20, scale=5))
     time_open = Column(DATETIME())
     time_close = Column(DATETIME())
@@ -94,10 +99,7 @@ class CoinTag(Base):
     tag = Column(Integer, ForeignKey("tag.id"))
 
     # Define a unique constraint to prevent duplicate combinations of coin and tag
-    __table_args__ = (
-        UniqueConstraint('coin', 'tag', name='uq_coin_tag_combination'),
-    )
-
+    __table_args__ = (UniqueConstraint("coin", "tag", name="uq_coin_tag_combination"),)
 
     def __repr__(self):
         return f"{self.coin.name}, {self.tag.title}"

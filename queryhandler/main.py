@@ -27,5 +27,4 @@ coin_data_path = os.environ.get("COIN_DATA_PATH")
 # Call the function to insert data
 db_manager.insert_coin_data(coin_data_path)
 db_manager.insert_coin_tag_data(coin_tag_data_path)
-
 db_manager.insert_coin_history_data()
