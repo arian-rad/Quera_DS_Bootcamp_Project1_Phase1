@@ -114,7 +114,6 @@ class DatabaseManager:
     def insert_coin_history_data(self):
         coin_history_path = os.environ.get("ALL_365_DAYS_PATH")
         # iterate through coin history csv files
-        count = 0
         for file in os.listdir(coin_history_path):
             # read csv file
             try:
@@ -129,7 +128,7 @@ class DatabaseManager:
                 self.connection.execute(
                     CoinHistory.__table__.insert().values(
                         coin=coin.id,
-                        date=None,  # TODO: add from_date and to_date?
+                        timestamp=self.get_proper_datetime_format(row["timestamp"]),
                         market_cap=row["marketCap"],
                         open=row["open"],
                         rank=None,  # TODO: need a way to get rank for each coin
