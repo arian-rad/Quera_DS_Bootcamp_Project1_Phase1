@@ -8,6 +8,7 @@ numpy==1.25.2
 scipy==1.7.1
 seaborn==0.12.2
 pandas==2.1.0
+matplotlib==3.4.2
 python-dateutil==2.8.2
 python-dotenv==1.0.0
 pytz==2023.3.post1
