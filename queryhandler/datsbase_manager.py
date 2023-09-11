@@ -128,7 +128,7 @@ class DatabaseManager:
                 self.connection.execute(
                     CoinHistory.__table__.insert().values(
                         coin=coin.id,
-                        date=None,  # TODO: add from_date and to_date?
+                        timestamp=self.get_proper_datetime_format(row["timestamp"]),
                         market_cap=row["marketCap"],
                         open=row["open"],
                         rank=None,  # TODO: need a way to get rank for each coin
